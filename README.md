@@ -3,6 +3,7 @@
 Database untuk kebutuhan Whatsapp bot
 
 [![Jekyll site CI](https://github.com/anyabotwa/database/actions/workflows/jekyll.yml/badge.svg?branch=main)](https://github.com/anyabotwa/database/actions/workflows/jekyll.yml)
+[![GitHub forks](https://img.shields.io/github/forks/anyabotwa/database?style=social)](https://github.com/anyabotwa/database/network) &nbsp;&nbsp; [![GitHub stars](https://img.shields.io/github/stars/anyabotwa/database?style=social)](https://github.com/anyabotwa/database/stargazers)
 
 ### LIST DATABASE
 
