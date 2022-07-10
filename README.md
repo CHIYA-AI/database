@@ -12,3 +12,5 @@ Database untuk kebutuhan Whatsapp bot
 * 📁 [other](https://github.com/anyabotwa/database/tree/main/other)
 
 ### MORE LIST COMING SOON ~ 
+
+Jika ingin menambahkan List DATABASE nya langsung aja pull request.
