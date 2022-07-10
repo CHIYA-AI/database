@@ -7,5 +7,6 @@ Database untuk kebutuhan Whatsapp bot
 
 ### LIST DATABASE
 
+* 📁 [image](https://github.com/anyabotwa/database/tree/main/image)
 * 📁 [islami](https://github.com/anyabotwa/database/tree/main/islami)
 * 📁 [other](https://github.com/anyabotwa/database/tree/main/other)
