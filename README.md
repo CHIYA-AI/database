@@ -1,6 +1,4 @@
-# Database Anya Bot WhatsApp
-
-Database untuk kebutuhan Whatsapp bot
+# Database JSON
 
 [![Jekyll site CI](https://github.com/anyabotwa/database/actions/workflows/jekyll.yml/badge.svg?branch=main)](https://github.com/anyabotwa/database/actions/workflows/jekyll.yml)
 [![GitHub forks](https://img.shields.io/github/forks/anyabotwa/database?style=social)](https://github.com/anyabotwa/database/network) &nbsp;&nbsp; [![GitHub stars](https://img.shields.io/github/stars/anyabotwa/database?style=social)](https://github.com/anyabotwa/database/stargazers)
@@ -12,5 +10,3 @@ Database untuk kebutuhan Whatsapp bot
 * 📁 [other](https://github.com/anyabotwa/database/tree/main/other)
 
 ### MORE LIST COMING SOON ~ 
-
-Jika ingin menambahkan List DATABASE nya langsung aja pull request.
