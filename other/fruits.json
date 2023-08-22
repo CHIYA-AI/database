@@ -1,0 +1,61 @@
+{
+    "fruits": [
+        "🍎", // Apple
+        "🍏", // Green Apple
+        "🍊", // Tangerine
+        "🍋", // Lemon
+        "🍌", // Banana
+        "🍉", // Watermelon
+        "🍇", // Grapes
+        "🍓", // Strawberry
+        "🍈", // Melon
+        "🍉", // Watermelon
+        "🍊", // Orange
+        "🍋", // Lemon
+        "🍌", // Banana
+        "🍍", // Pineapple
+        "🍎", // Red Apple
+        "🍏", // Green Apple
+        "🍐", // Pear
+        "🍑", // Peach
+        "🍒", // Cherries
+        "🍓", // Strawberry
+        "🥭", // Mango
+        "🥝", // Kiwi Fruit
+        "🍅", // Tomato (technically a fruit!)
+        "🍉", // Watermelon
+        "🍍", // Pineapple
+        "🍎", // Red Apple
+        "🍏", // Green Apple
+        "🍑", // Peach
+        "🍒", // Cherry
+        "🍓", // Strawberry
+        "🍍", // Pineapple
+        "🍈", // Melon
+        "🍉", // Watermelon
+        "🍊", // Tangerine
+        "🍋", // Lemon
+        "🍌", // Banana
+        "🍍", // Pineapple
+        "🥭", // Mango
+        "🍎", // Red Apple
+        "🍏", // Green Apple
+        "🍊", // Tangerine
+        "🍋", // Lemon
+        "🍌", // Banana
+        "🍉", // Watermelon
+        "🍇", // Grapes
+        "🍓", // Strawberry
+        "🍈", // Melon
+        "🍉", // Watermelon
+        "🍊", // Tangerine
+        "🍋", // Lemon
+        "🍌", // Banana
+        "🍍", // Pineapple
+        "🍑", // Peach
+        "🍒", // Cherry
+        "🍓", // Strawberry
+        "🍅", // Tomato
+        "🥥"  // Coconut
+    ]
+}
